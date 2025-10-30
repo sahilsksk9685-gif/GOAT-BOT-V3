@@ -1,4 +1,4 @@
-<h1 align="center">🐐 SAHIN HERE BOT- Powered by SAGOR 💫</h1>
+<h1 align="center">🐐 SAHIN HERE BOT- Powered by SAHIN 💫</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/vO080jt.jpeg" width="180" alt="Goat Bot Logo"/>
