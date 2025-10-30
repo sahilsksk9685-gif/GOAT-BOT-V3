@@ -1,4 +1,4 @@
-<h1 align="center">🐐 GOAT BOT V2 - Powered by SAGOR 💫</h1>
+<h1 align="center">🐐 SAHIN HERE BOT- Powered by SAGOR 💫</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/vO080jt.jpeg" width="180" alt="Goat Bot Logo"/>
@@ -28,7 +28,7 @@
 ## 👑 Developer
 
 > Author: Jahidul Islam Sagor  
-🌐 [Facebook Profile](https://facebook.com/JAHIDUL.ISLAM.404)  
+🌐 [Facebook Profile](https://www.facebook.com/profile.php?id=100040394289668)  
 💬 [Join Bot Group](https://facebook.com/groups/991444893060055/)  
 🧠 [GitHub Profile](https://github.com/SAGOR-KINGx)
 
